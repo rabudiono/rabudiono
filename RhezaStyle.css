@@ -1,0 +1,45 @@
+body {
+	font-family: 'Nunito', sans-serif;
+	font-weight: 200;
+}
+
+.brandName {
+	font-size: 1.5rem;
+}
+
+.name {
+	font-weight: 400;
+	font-size: 1.25rem;
+}
+
+.information {
+	padding-left: 15px;
+}
+
+.navbar-brand {
+	font-weight: 700;
+}
+
+.summaryIntro {
+	font-size: 1.15rem;
+}
+
+#header {
+	background: url(imgs/scenery-1.jpg) no-repeat;
+	background-size: cover;
+}
+
+.fab {
+	color: #0077B5;
+}
+
+.copyright {
+	font-size: 0.8rem;
+	list-style: none;
+	color: rgba(0, 0, 0, 0.4);
+	margin-bottom: 50px;
+}
+
+.imgCrsl {
+	max-height: 800px;
+}
