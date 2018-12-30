@@ -7,13 +7,12 @@ body {
 	font-size: 1.5rem;
 }
 
-.name {
-	font-weight: 400;
-	font-size: 1.25rem;
-}
-
 .information {
 	padding-left: 15px;
+}
+
+.information .cppImgs {
+	background: #f2f2f2;
 }
 
 .navbar-brand {
@@ -22,6 +21,15 @@ body {
 
 .summaryIntro {
 	font-size: 1.15rem;
+}
+
+.topInfo .name {
+	font-weight: 600;
+	font-size: 2.75rem;
+}
+
+.topInfo {
+	background: #ffffff;
 }
 
 #header {
@@ -33,6 +41,23 @@ body {
 	color: #0077B5;
 }
 
+.blurb .lead {
+	font-size: 1.2rem;
+}
+
+.experience-even {
+	background-color: #f2f2f2;
+}
+
+.skills {
+	background: #737373;
+	color: #d9d9d9;
+}
+
+.skillsHR {
+	background: #d9d9d9;
+}
+
 .copyright {
 	font-size: 0.8rem;
 	list-style: none;
@@ -42,4 +67,13 @@ body {
 
 .imgCrsl {
 	max-height: 800px;
+}
+
+.photocaption {
+	color: #000000;
+	font-weight: 600;
+}
+
+.carousel-inner {
+	font-size: 1.5rem;
 }
